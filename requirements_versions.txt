@@ -16,3 +16,8 @@ opencv-contrib-python==4.8.0.74
 httpx==0.24.1
 onnxruntime==1.16.3
 timm==0.9.2
+torchmetrics==0.5.1
+torch-optimizer==0.1.0
+torchinfo==1.5.3
+torchsummary==1.5.1
+torchviz==0.0.1 
